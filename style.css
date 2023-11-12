@@ -1,4 +1,4 @@
-h1{
+6h1{
     color: cadetblue;
     
 
@@ -68,7 +68,7 @@ img{
         object-fit: cover;
     }
     body{
-        width:90px;
+        width:60px;
     }
 }
 
