@@ -1,0 +1,38 @@
+h1{
+    color: blue;
+    
+
+}
+.title{
+    background-color: blue;
+}
+*{
+        text-align: center;
+    background-color:rgb(148, 226, 226);
+}
+.ulist{
+    font-size: 16;
+    display:inline-block;
+    gap: 10px;
+    padding: 20px;
+    margin: 30px;   
+    background-color: aqua;
+}
+
+div{
+   border:10px;
+    padding:20px;
+} 
+
+img{
+    display:inline-block;
+    width: 200px
+}
+@media(max-width: 680){
+    img{
+        display:inline;
+        width:100%;
+        object-fit: cover;
+    }
+}
+
