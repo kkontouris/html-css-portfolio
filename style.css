@@ -3,7 +3,8 @@ h1{
     
 
 }
-.title{
+.title
+{
     border:solid 2px;
     border-radius: 20px;
     display:block;
@@ -11,8 +12,9 @@ h1{
     margin: auto;
     margin-bottom: 10px;
     background-color:cadetblue;
-    color:
+
 }
+
 *{
     text-align: center;
     background-color:CFF5E7;
@@ -69,3 +71,5 @@ img{
         width:90px;
     }
 }
+
+
